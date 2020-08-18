@@ -7,5 +7,5 @@ Description:
   4. a contact sheet is created using pillow to accummulate all the faces detected in a particular page.
   5. Finally when a search word is entered, the program will look for that word in the newspaper pages. If the word is found in a particular page, all the faces detected      in that page is returned as a contact sheet.
   
-  # this project is from coursera course -  Python Project: pillow, tesseract, and opencv 
-  # this is used for my 1st sample repository
+  >> this project is from coursera course -  Python Project: pillow, tesseract, and opencv 
+  >> this is used for my 1st sample repository
