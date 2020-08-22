@@ -1,4 +1,4 @@
-# Python-Project---pillow-tesseract-opencv
+# pillow-tesseract-opencv
 General concept: Face Detection using opencv and text detection using tesseract -- from images (eg.newspaper)
 Description:
   1. a zip file of images(e.g. newspaper) is taken as input. then they're processed using pillow.
