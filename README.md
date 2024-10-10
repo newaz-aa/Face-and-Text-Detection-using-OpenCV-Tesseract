@@ -19,9 +19,12 @@ When a search word is entered, the program will look for that word in the newspa
 
 
 
-
-
 ## Usage/Examples
 
 If the search word is 'Cavillrine', the program will extract all the images present in the page where that word has been mentioned. 
+
+## Screenshots
+![output](https://github.com/newaz-aa/Face-and-Text-Detection-using-OpenCV-Tesseract/blob/master/output.png)
+
+![sample page](https://github.com/newaz-aa/Face-and-Text-Detection-using-OpenCV-Tesseract/blob/master/a-1.png)
 
